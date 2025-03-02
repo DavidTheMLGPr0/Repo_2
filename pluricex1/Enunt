@@ -1,9 +1,10 @@
 #Enunt
 
-Anul acesta se organizează prima ediție a Olimpiadei Pluridisciplinare pentru Centrele de Excelență, PluriCEX. Fiecare Centru de Excelență din țară va trimite la concurs o echipă formată din k membri (toți participanți
-la Centrul de Excelență). Echipa va trebui să rezolve probleme interdisciplinare, disciplinele vizate fiind cele de la Centrul de Excelenţă (D discipline, pe care le vom considera numerotate de la 1 la D).
-Directorul CEX Iași a făcut o listă cu primii n cei mai buni elevi de la CEX, apoi a numerotat elevii de la 1 la n, în ordinea apariției lor în listă. Pentru fiecare elev, directorul a notat disciplinele la care el
-participă la CEX.
+Anul acesta se organizează prima ediție a Olimpiadei Pluridisciplinare pentru Centrele de Excelență, PluriCEX. Fiecare Centru de Excelență din țară va trimite la concurs o echipă formată din k membri (toți
+participanți la Centrul de Excelență). Echipa va trebui să rezolve probleme interdisciplinare, disciplinele vizate fiind cele de la Centrul de Excelenţă (D discipline, pe care le vom considera numerotate 
+de la 1 la D).
+Directorul CEX Iași a făcut o listă cu primii n cei mai buni elevi de la CEX, apoi a numerotat elevii de la 1 la n, în ordinea apariției lor în listă. Pentru fiecare elev, directorul a notat disciplinele
+la care el participă la CEX.
 
-Scrieți un program care să determine toate echipele ce pot fi formate din k dintre cei n elevi de pe lista directorului, cu condiția ca pentru fiecare disciplină să existe în echipă cel puțin un membru care să studieze
-la CEX disciplina respectivă.
+Scrieți un program care să determine toate echipele ce pot fi formate din k dintre cei n elevi de pe lista directorului, cu condiția ca pentru fiecare disciplină să existe în echipă cel puțin un membru 
+care să studieze la CEX disciplina respectivă.
