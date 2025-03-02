@@ -1,0 +1,7 @@
+Fișierul de ieșire pluricex1.out va conţine toate echipele ce se pot forma respectând condiţiile din enunţ, câte o echipă pe o linie. Membrii unei echipe vor fi scrişi în ordine crescătoare, separaţi prin 
+câte un spaţiu. Echipele vor fi scrise în ordine lexicografică.
+
+Pentru exemplul de la Date_de_intrare, în pluricex1.out se va afișa :
+
+2 3 4
+3 4 5
