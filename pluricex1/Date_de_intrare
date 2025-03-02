@@ -2,7 +2,7 @@ Fișierul de intrare pluricex1.in conţine pe prima linie trei numere naturale n
 Mai exact, pe linia i+1 este descrisă participarea elevului i astfel: nr d1 d2 ... dnr. Primul număr de pe linie (nr) indică numărul de discipline la care participă elevul i. Următoarele nr numere reprezintă
 disciplinele la care participă elevul i. Numerele scrise pe aceeași linie sunt separate prin spațiu.
 
-Spre exemplu, pluricex1.in poate contine :
+Spre exemplu, pluricex1.in poate conține :
 
 6 3 5
 1 2
