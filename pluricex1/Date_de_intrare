@@ -1,0 +1,13 @@
+Fișierul de intrare pluricex1.in conţine pe prima linie trei numere naturale n k D (cu semnificația din enunț). Urmează n linii care descriu participările la CEX ale celor n elevi de pe lista directorului. 
+Mai exact, pe linia i+1 este descrisă participarea elevului i astfel: nr d1 d2 ... dnr. Primul număr de pe linie (nr) indică numărul de discipline la care participă elevul i. Următoarele nr numere reprezintă
+disciplinele la care participă elevul i. Numerele scrise pe aceeași linie sunt separate prin spațiu.
+
+Spre exemplu, pluricex1.in poate contine :
+
+6 3 5
+1 2
+2 1 4
+3 2 4 3
+1 5
+2 3 1
+1 3
