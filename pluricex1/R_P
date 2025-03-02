@@ -1,0 +1,7 @@
+Restricții și precizări :
+
+0 < n ≤ 22
+0 < k ≤ 8
+0 < D ≤ 10
+Pentru datele de test problema admite întotdeauna soluţie, numărul de soluţii fiind mai mic de 20000.
+Spunem că vectorul (x1, x2, ..., xn) precedă lexicografic vectorul (y1, y2, ..., yn) dacă există un indice i astfel încât xj=yj, pentru orice 1 ≤ j < i, iar xi < yi.
